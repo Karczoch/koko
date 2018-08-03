@@ -1,2 +1,3 @@
 # koko
-kokoeurospoko
+kokoeurospoko yoyo
+nie pierwszy raz
